@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -aun *.html
+cp -aun *.html ..
