@@ -1,2 +1,2 @@
 #!/bin/bash
-passwd "user home directory" /etc/passwd
+passwd /etc/passwd : "user home directory"
