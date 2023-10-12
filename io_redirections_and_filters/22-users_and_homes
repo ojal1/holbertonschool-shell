@@ -1,2 +1,2 @@
 #!/bin/bash
-passwd /etc/passwd : "user home directory"
+passwd /etc/passwd | sort
